@@ -21,8 +21,8 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 ## PROGRAM:
 ```
-Developed by: Jashwana Fathima S
-Registeration Number : 212222040059
+Developed by: Divya R
+Registeration Number : 212222040040
 ```
 MainActivity.java:
 ```
